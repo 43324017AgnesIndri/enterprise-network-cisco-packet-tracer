@@ -78,7 +78,61 @@ The following connectivity tests were performed:
 - `enterprise-network-topology.pkt` — Cisco Packet Tracer simulation file.
 - `README.md` — Project documentation.
 
-## Author
+## Project Screenshots
+
+### Network Connectivity
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./pc0-connectivity-test.png" width="100%">
+      <p align="center">PC0 Connectivity Test</p>
+    </td>
+    <td width="50%">
+      <img src="./pc15-connectivity-test-to-server.png" width="100%">
+      <p align="center">PC15 to Server Test</p>
+    </td>
+  </tr>
+</table>
+
+### Router Configuration
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./router0-ping-server.png" width="100%">
+      <p align="center">Router0 Routing and Ping</p>
+    </td>
+    <td width="50%">
+      <img src="./router3-connectivity-test.png" width="100%">
+      <p align="center">Router3 Connectivity</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="./router6-connectivity-test.png" width="100%">
+      <p align="center">Router6 Connectivity</p>
+    </td>
+  </tr>
+</table>
+
+### Web Server
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./server-web-portal-infrastruktur-jaringan-http.png" width="100%">
+      <p align="center">HTTP Web Portal</p>
+    </td>
+    <td width="50%">
+      <img src="./server-web-portal-infrastruktur-jaringan-https.png" width="100%">
+      <p align="center">HTTPS Web Portal</p>
+    </td>
+  </tr>
+</table>
+
+### Author
 
 **Agnes Siagian**  
 Institut Teknologi DEL  
+
